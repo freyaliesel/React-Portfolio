@@ -3,7 +3,8 @@ function Contact() {
         <section id="contactme">
             <h2>Contact Me</h2>
             <div className="container">
-                <ul>
+                This needs a contact form that emails me
+                {/* <ul>
                     <li>
                         <a href="tel:+13127678068">1·312·767·8068</a>
                     </li>
@@ -20,7 +21,7 @@ function Contact() {
                             LinkedIn
                         </a>
                     </li>
-                </ul>
+                </ul> */}
             </div>
         </section>
     );
