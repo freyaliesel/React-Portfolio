@@ -7,7 +7,7 @@ function About() {
                     <img
                         id="profileimage"
                         src="./assets/images/profileimage.png"
-                        alt="picture of Ms Glidden, smiling"
+                        alt="Ms Glidden, smiling"
                     />
                     <p>
                         Hi I'm Kit, and I'm an aspiring developer! I've spent my
