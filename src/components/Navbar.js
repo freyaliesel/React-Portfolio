@@ -13,13 +13,13 @@ function Navbar() {
             <Link to="/Projects" className={matchPath("/Projects", pathname)?"active":""}>My Work</Link>
             <Link to="/Skills" className={matchPath("/Skills", pathname)?"active":""}>My Skills</Link>
             <Link to="/Contact" className={matchPath("/Contact", pathname)?"active":""}>Contact Me</Link>
-            <a
+            {/* <a
                 href="javascript:void(0);"
                 className="icon"
                 onClick="handleNavbar()"
             >
                 <i className="fa fa-bars"></i>
-            </a>
+            </a> */}
             <a href="/assets/files/KGlidden Resume 2022.pdf" download>
                 Resume
             </a>
