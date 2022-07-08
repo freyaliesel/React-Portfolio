@@ -1,6 +1,8 @@
 function Footer() {
     return (
-        <footer>This is footer content</footer>
+        <footer>
+                <h3>©2022 K Glidden</h3>
+        </footer>
     )
 }
 
