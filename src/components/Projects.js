@@ -1,5 +1,7 @@
 import { Link } from "react-router-dom";
 
+// this needs to handle links
+
 function Projects() {
     return (
         <section id="work">
@@ -61,8 +63,8 @@ function Projects() {
             >
             <div className="content">Memory<span className="language">Scratch</span></div>
             <img
-              src="./assets/images/memorygame.png"
-              alt="preview of a game made in scratch"
+                src="./assets/images/memorygame.png"
+                alt="preview of a game made in scratch"
           /></a> --> */}
             </div>
         </section>
